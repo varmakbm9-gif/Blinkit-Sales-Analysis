@@ -106,8 +106,4 @@ Through this project, I gained experience in:
 
 ---
 
-## 🔗 Author
-
-**Hyndhavi Mupparapu**
-
 If you found this project useful, feel free to ⭐ the repository.
